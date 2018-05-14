@@ -1,2 +1,2 @@
-# efectos_fondos
+# efecto_slider_jquery
 Efecto Jquery
